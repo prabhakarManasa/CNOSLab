@@ -1,6 +1,6 @@
 # Program file
-[!RR_548](RR_548.pnj)
+[!RR_548](RR_548.png)
 # ExpectedOutput
-[!ExpectedOutput](ExpectedOutput.pnj)
+[!ExpectedOutput](ExpectedOutput.png)
 # ExecutedOutput
-[!ExecutedOutput](ExecutedOutput.pnj)
+[!ExecutedOutput](ExecutedOutput.png)
