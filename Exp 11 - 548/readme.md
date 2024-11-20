@@ -1,5 +1,5 @@
-#programfile
-![dinning-philosopher.py](dinning-philosopher.py)
+# programfile
+! [dinning-philosopher.py](dinning-philosopher.py)
 
-#ExpectedOutput
+# ExpectedOutput
 ! [dinning-philosopher_output.png](dinning-philosopher_output.png)
